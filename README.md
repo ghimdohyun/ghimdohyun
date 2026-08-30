@@ -6,7 +6,6 @@ AI 기반 웹 서비스와 생산성 도구를 기획하고, 제품 수준의 �
 ## Featured projects
 
 - [WebPilot AI](https://github.com/ghimdohyun/webpilot-ai) — Claude 기반 브랜드 진단·경쟁사 분석·홈페이지 기획 도구. FastAPI backend와 Next.js frontend를 하나의 저장소로 통합했습니다.
-- [TaskView Platform](https://github.com/ghimdohyun/taskview-platform) · [Live](https://taskview-platform-web.vercel.app) — TaskView 웹 플랫폼.
 - [imweb AI Toolkit](https://github.com/ghimdohyun/imweb-ai-toolkit) · [Live](https://brand-studio-amber.vercel.app) — 아임웹 제작 업무를 위한 AI surface, skill, plugin toolkit.
 - [DreamHelixion Web Builder](https://github.com/ghimdohyun/dreamhelixion-web-builder) · [Live](https://www.dreamhelixion.com) — AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을 포함한 SaaS.
 - [DreamHelixion Planner](https://github.com/ghimdohyun/dreamhelixion-planner) · [Live](https://dreamhelixion-planner-ghimdohyuns-projects.vercel.app) — 대학 교육과정·졸업요건 분석과 맞춤형 학습계획 추천 서비스.
