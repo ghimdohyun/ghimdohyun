@@ -56,9 +56,8 @@ flowchart LR
 
 ## Featured projects
 
-- [WebPilot AI](https://github.com/ghimdohyun/webpilot-ai) — Claude 기반 브랜드 진단·경쟁사 분석·홈페이지 기획 도구. FastAPI backend와 Next.js frontend를 하나의 저장소로 통합했습니다.
+- [imweb AI Toolkit · Brand Studio · WebPilot AI](https://github.com/ghimdohyun/imweb-ai-toolkit) · [Live](https://dreamhelixion.com/) — AI agent toolkit과 AI 기반 견적·브랜드 진단·홈페이지 기획 도구를 하나의 저장소에서 운영합니다. Next.js frontend와 FastAPI backend를 함께 포함합니다.
 - [TaskView Platform](https://github.com/ghimdohyun/taskview-platform) · [Live](https://taskview-platform-web.vercel.app) — 목적과 승인 흐름을 데이터 뷰로 연결하는 프라이버시 중심 업무 플랫폼.
-- [imweb AI Toolkit](https://github.com/ghimdohyun/imweb-ai-toolkit) · [Live](https://brand-studio-amber.vercel.app/) — 아임웹 제작 업무를 위한 AI 견적·브랜드 진단·홈페이지 기획 플랫폼.
 - [DreamHelixion Web Builder](https://github.com/ghimdohyun/dreamhelixion-web-builder) · [Live](https://builder.dreamhelixion.com/) — AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을 포함한 SaaS.
 - [DreamHelixion Planner](https://github.com/ghimdohyun/dreamhelixion-planner) · [Live](https://planner.dreamhelixion.com/) — 대학 교육과정·졸업요건 분석과 맞춤형 학습계획 추천 서비스.
 - [Investment AI Assistant](https://github.com/ghimdohyun/investment-ai-assistant) — Claude AI 기반 데일리 투자 브리핑 및 Telegram 전달 자동화.
