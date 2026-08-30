@@ -12,9 +12,7 @@ AI 기반 웹 서비스와 생산성 도구를 기획하고, 제품 수준의 �
 - [Investment AI Assistant](https://github.com/ghimdohyun/investment-ai-assistant) — Claude AI 기반 데일리 투자 브리핑 및 Telegram 전달 자동화.
 - [Startup Alert](https://github.com/ghimdohyun/startup-alert) — 스타트업·투자 관련 정보를 수집하고 알림으로 전달하는 서비스.
 - [Fieldlink Facility SaaS](https://github.com/ghimdohyun/fieldlink-facility-saas) — 시설 운영·현장 업무를 위한 SaaS MVP.
-- [Sunfull Program](https://github.com/ghimdohyun/sunfull-program) — Playwright 기반 Windows 데스크톱 자동화 프로그램.
-- [Ohdojae Oriental Medicine Clinic](https://github.com/ghimdohyun/ohdojae-oriental-medicine-clinic) — 한의원 홈페이지 프로젝트.
-- [Accompanying Air Conditioner](https://github.com/ghimdohyun/accompanying-air-conditioner) — 에어컨 제품 추천·설치 문의 정적 웹 프로토타입.
+
 
 ## Other projects
 
