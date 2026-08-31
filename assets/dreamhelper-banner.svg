@@ -12,17 +12,49 @@
     <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 326) rotate(-30) scale(300)">
       <stop stop-color="#C4B5FD" stop-opacity="0.28"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="orb" cx="30%" cy="24%" r="76%">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="0.18" stop-color="#B9F3FF" stop-opacity="0.9"/>
+      <stop offset="0.52" stop-color="#7188FF" stop-opacity="0.92"/>
+      <stop offset="0.82" stop-color="#493A9C" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#201548"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="-96" y1="-24" x2="96" y2="24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE9FF" stop-opacity="0"/><stop offset="0.5" stop-color="#C4B5FD" stop-opacity="0.85"/><stop offset="1" stop-color="#FFB7D5" stop-opacity="0"/>
+    </linearGradient>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+    <filter id="orbGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
   </defs>
   <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
   <rect width="1280" height="360" rx="28" fill="url(#glowA)"/><rect width="1280" height="360" rx="28" fill="url(#glowB)"/>
-  <circle cx="1032" cy="70" r="74" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="1.5"/>
-  <circle cx="1032" cy="70" r="112" stroke="url(#accent)" stroke-opacity="0.2" stroke-width="1.5"/>
-  <circle cx="1032" cy="70" r="154" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="1.5"/>
-  <circle cx="1032" cy="70" r="7" fill="#8BE9FF" filter="url(#blur)"/>
+  <g transform="translate(1032 86)">
+    <circle r="86" fill="#8BE9FF" fill-opacity="0.08" filter="url(#orbGlow)">
+      <animate attributeName="r" values="82;94;82" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <ellipse rx="112" ry="31" stroke="url(#orbit)" stroke-width="2" stroke-dasharray="8 12" transform="rotate(-24)"/>
+      <ellipse rx="138" ry="43" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="1" transform="rotate(-24)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <circle r="62" fill="url(#orb)" stroke="#D9F7FF" stroke-opacity="0.5" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <ellipse cx="-17" cy="-22" rx="17" ry="10" fill="white" fill-opacity="0.34" transform="rotate(-28)">
+      <animate attributeName="opacity" values="0.22;0.58;0.22" dur="3.6s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF" filter="url(#blur)">
+      <animate attributeName="r" values="3;7;3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g opacity="0.68">
+    <circle cx="932" cy="26" r="2" fill="#A5F3FC"><animate attributeName="cy" values="26;45;26" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1176" cy="108" r="2" fill="#D9F7FF"><animate attributeName="cx" values="1176;1152;1176" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1107" cy="274" r="1.5" fill="#E9D5FF"><animate attributeName="cy" values="274;255;274" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
   <path d="M815 305C931 227 1056 237 1224 142" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="2" stroke-linecap="round"/>
   <path d="M782 326C936 227 1082 253 1242 166" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="1" stroke-linecap="round"/>
-  <g fill="#D9F7FF" fill-opacity="0.65"><circle cx="853" cy="84" r="2"/><circle cx="1176" cy="108" r="2"/><circle cx="1107" cy="274" r="1.5"/><circle cx="918" cy="282" r="1.5"/><circle cx="1217" cy="54" r="1.5"/></g>
+  <g fill="#D9F7FF" fill-opacity="0.65"><circle cx="853" cy="84" r="2"/><circle cx="918" cy="282" r="1.5"/><circle cx="1217" cy="54" r="1.5"/></g>
   <text x="82" y="116" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="5">DREAMHELPER / 2026</text>
   <text x="78" y="188" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">김도현</text>
   <text x="82" y="231" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="1">AI PRODUCT BUILDER</text>
