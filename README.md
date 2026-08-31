@@ -72,7 +72,7 @@ flowchart LR
 - [Masil Moggongbang](https://github.com/ghimdohyun/masil-assembly-jig) · [Live](https://masilmoggongbang.vercel.app/)
 - [Smartstudy Landing](https://github.com/ghimdohyun/smartstudy-landing)
 - [Hand Gesture Interactive Brick Game](https://github.com/ghimdohyun/Hand-Gesture-Interactive-Brick-Game) · [Live](https://hand.dreamhelixion.com/)
-- [Honey Badger Challenge](https://github.com/ghimdohyun/honey-badger-challenge) · [Live](https://league.dreamhelixion.com/) · [Alternate](https://challenge.dreamhelixion.com/) 
+- [Honey Badger Challenge](https://github.com/ghimdohyun/honey-badger-challenge) · [Live](https://league.dreamhelixion.com/) · [Alternate](https://challenge.dreamhelixion.com/)
 - [Unboxing Algorithm](https://github.com/ghimdohyun/Unboxing-Algorithm) · [Live](https://unbox.dreamhelixion.com/)
 - [Dream Accelerator](https://github.com/ghimdohyun/dream-accelerator) · [Live](https://accel.dreamhelixion.com/)
 - [Music Station](https://github.com/ghimdohyun/music-station) · [Live](https://music.dreamhelixion.com/)
