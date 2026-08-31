@@ -126,16 +126,16 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)
-![Stripe](https://img.shields.io/badge/Stripe-0F172A?style=for-the-badge&logo=stripe&logoColor=A78BFA)
-![Claude](https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=FBBF77)
-![Groq](https://img.shields.io/badge/Groq-0F172A?style=for-the-badge&logo=groq&logoColor=FB7185)
-![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=45E3A4)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=60A5FA)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)](https://fastapi.tiangolo.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)](https://supabase.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-0F172A?style=for-the-badge&logo=stripe&logoColor=A78BFA)](https://stripe.com/)
+[![Claude](https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=FBBF77)](https://www.anthropic.com/claude)
+[![Groq](https://img.shields.io/badge/Groq-0F172A?style=for-the-badge&logo=groq&logoColor=FB7185)](https://groq.com/)
+[![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=45E3A4)](https://playwright.dev/)
 
 </div>
 
