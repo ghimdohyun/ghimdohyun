@@ -88,12 +88,6 @@ flowchart LR
 AI agent toolkit과 AI 기반 견적·브랜드 진단·홈페이지 기획 도구를 하나의 저장소에서 운영합니다.
 Next.js frontend와 FastAPI backend를 함께 포함한 통합 제품입니다.
 
-### [TaskView Platform](https://github.com/ghimdohyun/taskview-platform)
-
-<a href="https://taskview.dreamhelixion.com/"><img src="https://img.shields.io/badge/Live-taskview.dreamhelixion.com-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-
-목적과 승인 흐름을 데이터 뷰로 연결하는 프라이버시 중심 업무 플랫폼입니다.
-
 ### [DreamHelixion Web Builder](https://github.com/ghimdohyun/dreamhelixion-web-builder)
 
 <a href="https://builder.dreamhelixion.com/"><img src="https://img.shields.io/badge/Live-builder.dreamhelixion.com-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
@@ -105,12 +99,6 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 <a href="https://planner.dreamhelixion.com/"><img src="https://img.shields.io/badge/Live-planner.dreamhelixion.com-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 
 대학 교육과정·졸업요건을 분석하고 개인화된 학습계획을 추천합니다.
-
-### [FastAPI Lecture 06](https://github.com/ghimdohyun/fastapi-lecture-06)
-
-<a href="https://ai.dreamhelixion.com/"><img src="https://img.shields.io/badge/Live-ai.dreamhelixion.com-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-
-FastAPI와 Upstage AI를 연결한 해커톤 아이디어 저장·분석 서비스입니다.
 
 ### More products
 
