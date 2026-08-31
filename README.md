@@ -112,7 +112,6 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 ## Other projects
 
 - [Auto-Doc Lab](https://github.com/ghimdohyun/auto-doc-lab) · [Live](https://biz.dreamhelixion.com/)
-- [Masil Moggongbang](https://github.com/ghimdohyun/masil-assembly-jig) · [Live](https://masilmoggongbang.vercel.app/)
 - [Smartstudy Landing](https://github.com/ghimdohyun/smartstudy-landing)
 - [Hand Gesture Interactive Brick Game](https://github.com/ghimdohyun/Hand-Gesture-Interactive-Brick-Game) · [Live](https://hand.dreamhelixion.com/)
 - [Honey Badger Challenge](https://github.com/ghimdohyun/honey-badger-challenge) · [Live](https://league.dreamhelixion.com/) · [Alternate](https://challenge.dreamhelixion.com/)
