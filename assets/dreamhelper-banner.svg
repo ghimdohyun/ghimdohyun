@@ -1,63 +1,90 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Dreamhelper — 김도현, AI Product Builder</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1026"/><stop offset="0.48" stop-color="#182B67"/><stop offset="1" stop-color="#3B1D78"/>
+    <linearGradient id="bg" x1="30" y1="30" x2="1240" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B1D"/><stop offset="0.42" stop-color="#172A68"/><stop offset="1" stop-color="#4B1D76"/>
     </linearGradient>
-    <linearGradient id="accent" x1="170" y1="60" x2="1100" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8BE9FF"/><stop offset="0.5" stop-color="#B9A7FF"/><stop offset="1" stop-color="#FFB7D5"/>
+    <linearGradient id="accent" x1="120" y1="72" x2="1130" y2="356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE9FF"/><stop offset="0.46" stop-color="#B9A7FF"/><stop offset="1" stop-color="#FFB7D5"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1035 64) rotate(130) scale(280)">
-      <stop stop-color="#7DD3FC" stop-opacity="0.34"/><stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    <radialGradient id="auroraA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 105) rotate(135) scale(330)">
+      <stop stop-color="#38BDF8" stop-opacity="0.35"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 326) rotate(-30) scale(300)">
-      <stop stop-color="#C4B5FD" stop-opacity="0.28"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+    <radialGradient id="auroraB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 410) rotate(-30) scale(370)">
+      <stop stop-color="#A78BFA" stop-opacity="0.32"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="orb" cx="30%" cy="24%" r="76%">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/>
-      <stop offset="0.18" stop-color="#B9F3FF" stop-opacity="0.9"/>
-      <stop offset="0.52" stop-color="#7188FF" stop-opacity="0.92"/>
-      <stop offset="0.82" stop-color="#493A9C" stop-opacity="0.96"/>
-      <stop offset="1" stop-color="#201548"/>
+    <radialGradient id="orb" cx="28%" cy="20%" r="82%">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.99"/><stop offset="0.12" stop-color="#D7FAFF" stop-opacity="0.98"/>
+      <stop offset="0.38" stop-color="#7CD9FF" stop-opacity="0.96"/><stop offset="0.68" stop-color="#6575F4" stop-opacity="0.96"/>
+      <stop offset="0.9" stop-color="#48328F" stop-opacity="0.98"/><stop offset="1" stop-color="#160F38"/>
     </radialGradient>
-    <linearGradient id="orbit" x1="-96" y1="-24" x2="96" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8BE9FF" stop-opacity="0"/><stop offset="0.5" stop-color="#C4B5FD" stop-opacity="0.85"/><stop offset="1" stop-color="#FFB7D5" stop-opacity="0"/>
+    <linearGradient id="orbEdge" x1="-86" y1="-86" x2="86" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="0.32" stop-color="#9EEBFF" stop-opacity="0.45"/><stop offset="1" stop-color="#F0ABFF" stop-opacity="0.22"/>
     </linearGradient>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
-    <filter id="orbGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+    <linearGradient id="orbit" x1="-150" y1="-30" x2="150" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE9FF" stop-opacity="0"/><stop offset="0.5" stop-color="#D6C8FF" stop-opacity="0.92"/><stop offset="1" stop-color="#FFB7D5" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="tinyGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
   </defs>
-  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1280" height="360" rx="28" fill="url(#glowA)"/><rect width="1280" height="360" rx="28" fill="url(#glowB)"/>
-  <g transform="translate(1032 86)">
-    <circle r="86" fill="#8BE9FF" fill-opacity="0.08" filter="url(#orbGlow)">
-      <animate attributeName="r" values="82;94;82" dur="4.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.55;1;0.55" dur="4.8s" repeatCount="indefinite"/>
+
+  <rect width="1280" height="420" rx="30" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="30" fill="url(#auroraA)"/>
+  <rect width="1280" height="420" rx="30" fill="url(#auroraB)"/>
+
+  <g opacity="0.12" stroke="#C4B5FD" stroke-width="1">
+    <path d="M790 0V420M850 0V420M910 0V420M970 0V420M1030 0V420M1090 0V420M1150 0V420M1210 0V420"/>
+    <path d="M760 60H1280M760 120H1280M760 180H1280M760 240H1280M760 300H1280M760 360H1280"/>
+  </g>
+
+  <g transform="translate(1040 216)">
+    <circle r="132" fill="#8BE9FF" fill-opacity="0.12" filter="url(#softGlow)">
+      <animate attributeName="r" values="124;140;124" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>
     </circle>
-    <g>
-      <ellipse rx="112" ry="31" stroke="url(#orbit)" stroke-width="2" stroke-dasharray="8 12" transform="rotate(-24)"/>
-      <ellipse rx="138" ry="43" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="1" transform="rotate(-24)"/>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+
+    <g transform="rotate(-20)">
+      <ellipse rx="160" ry="50" stroke="url(#orbit)" stroke-width="3" stroke-dasharray="10 16"/>
+      <ellipse rx="182" ry="63" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="1.5"/>
+      <animateTransform attributeName="transform" type="rotate" from="-20" to="340" dur="20s" repeatCount="indefinite"/>
     </g>
-    <circle r="62" fill="url(#orb)" stroke="#D9F7FF" stroke-opacity="0.5" stroke-width="1.5">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <ellipse cx="-17" cy="-22" rx="17" ry="10" fill="white" fill-opacity="0.34" transform="rotate(-28)">
-      <animate attributeName="opacity" values="0.22;0.58;0.22" dur="3.6s" repeatCount="indefinite"/>
+
+    <circle r="96" fill="url(#orb)" stroke="url(#orbEdge)" stroke-width="2"/>
+    <g opacity="0.28" stroke="#E0F7FF" stroke-width="1.4">
+      <ellipse rx="51" ry="96" transform="rotate(22)"><animateTransform attributeName="transform" type="rotate" from="22" to="382" dur="14s" repeatCount="indefinite"/></ellipse>
+      <ellipse rx="24" ry="96" transform="rotate(22)"><animateTransform attributeName="transform" type="rotate" from="22" to="382" dur="14s" repeatCount="indefinite"/></ellipse>
+      <ellipse rx="87" ry="34" transform="rotate(-10)"><animateTransform attributeName="transform" type="rotate" from="-10" to="350" dur="14s" repeatCount="indefinite"/></ellipse>
+      <ellipse rx="78" ry="17" transform="rotate(-10)"><animateTransform attributeName="transform" type="rotate" from="-10" to="350" dur="14s" repeatCount="indefinite"/></ellipse>
+    </g>
+    <ellipse cx="-30" cy="-38" rx="27" ry="15" fill="white" fill-opacity="0.42" transform="rotate(-28)">
+      <animate attributeName="opacity" values="0.2;0.68;0.2" dur="3.8s" repeatCount="indefinite"/>
     </ellipse>
-    <circle cx="0" cy="0" r="4" fill="#FFFFFF" filter="url(#blur)">
-      <animate attributeName="r" values="3;7;3" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
+    <ellipse cy="88" rx="72" ry="13" fill="#120D35" fill-opacity="0.28"/>
+
+    <g transform="rotate(-20)">
+      <path d="M-160 0C-78 35 78 35 160 0" stroke="url(#orbit)" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="-108" cy="28" r="5" fill="#A5F3FC" filter="url(#tinyGlow)">
+        <animate attributeName="cx" values="-108;108;-108" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="28;-28;28" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <animateTransform attributeName="transform" type="rotate" from="-20" to="340" dur="20s" repeatCount="indefinite"/>
+    </g>
   </g>
-  <g opacity="0.68">
-    <circle cx="932" cy="26" r="2" fill="#A5F3FC"><animate attributeName="cy" values="26;45;26" dur="5s" repeatCount="indefinite"/></circle>
-    <circle cx="1176" cy="108" r="2" fill="#D9F7FF"><animate attributeName="cx" values="1176;1152;1176" dur="6s" repeatCount="indefinite"/></circle>
-    <circle cx="1107" cy="274" r="1.5" fill="#E9D5FF"><animate attributeName="cy" values="274;255;274" dur="4s" repeatCount="indefinite"/></circle>
+
+  <g fill="#D9F7FF">
+    <circle cx="820" cy="56" r="2" opacity="0.7"><animate attributeName="cy" values="56;76;56" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1190" cy="104" r="2" opacity="0.72"><animate attributeName="cx" values="1190;1162;1190" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="348" r="1.5" opacity="0.66"><animate attributeName="cy" values="348;326;348" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="890" cy="346" r="1.5" opacity="0.66"/>
   </g>
-  <path d="M815 305C931 227 1056 237 1224 142" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="2" stroke-linecap="round"/>
-  <path d="M782 326C936 227 1082 253 1242 166" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="1" stroke-linecap="round"/>
-  <g fill="#D9F7FF" fill-opacity="0.65"><circle cx="853" cy="84" r="2"/><circle cx="918" cy="282" r="1.5"/><circle cx="1217" cy="54" r="1.5"/></g>
-  <text x="82" y="116" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="5">DREAMHELPER / 2026</text>
-  <text x="78" y="188" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">김도현</text>
-  <text x="82" y="231" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="1">AI PRODUCT BUILDER</text>
-  <text x="82" y="286" fill="#E2E8F0" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">LISTEN  →  CLARIFY  →  BUILD  →  MEASURE  →  IMPROVE</text>
-  <rect x="82" y="308" width="224" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <path d="M760 374C910 260 1088 300 1260 170" stroke="url(#accent)" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round"/>
+  <path d="M730 402C904 276 1095 326 1270 206" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="1" stroke-linecap="round"/>
+
+  <text x="76" y="106" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="6">DREAMHELPER / 2026</text>
+  <text x="70" y="202" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800" letter-spacing="-3">김도현</text>
+  <text x="76" y="258" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">AI PRODUCT BUILDER</text>
+  <text x="76" y="316" fill="#F1F5F9" fill-opacity="0.92" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="1.2">LISTEN  →  CLARIFY  →  BUILD</text>
+  <text x="76" y="349" fill="#CBD5E1" fill-opacity="0.82" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">MEASURE  →  IMPROVE  →  DREAMHELPER</text>
+  <rect x="76" y="379" width="280" height="4" rx="2" fill="url(#accent)"/>
 </svg>
