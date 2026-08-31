@@ -126,16 +126,16 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=60A5FA)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)](https://fastapi.tiangolo.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)](https://supabase.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-0F172A?style=for-the-badge&logo=stripe&logoColor=A78BFA)](https://stripe.com/)
-[![Claude](https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=FBBF77)](https://www.anthropic.com/claude)
-[![Groq](https://img.shields.io/badge/Groq-0F172A?style=for-the-badge&logo=groq&logoColor=FB7185)](https://groq.com/)
-[![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=45E3A4)](https://playwright.dev/)
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=60A5FA" alt="TypeScript" height="36" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="36" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="36" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python" height="36" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" height="36" /></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399" alt="Supabase" height="36" /></a>
+<a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-0F172A?style=for-the-badge&logo=stripe&logoColor=A78BFA" alt="Stripe" height="36" /></a>
+<a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=FBBF77" alt="Claude" height="36" /></a>
+<a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-0F172A?style=for-the-badge&logo=groq&logoColor=FB7185" alt="Groq" height="36" /></a>
+<a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=45E3A4" alt="Playwright" height="36" /></a>
 
 </div>
 
@@ -160,7 +160,9 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 
 <div align="center">
 
-### 함께 만들고 싶다면
+## 함께 만들고 싶다면
+
+<h2><a href="https://github.com/ghimdohyun">김도현 GitHub 프로필 확인하기&nbsp;↗</a></h2>
 
 [![Dreamhelixion](https://img.shields.io/badge/Explore_Dreamhelixion-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://dreamhelixion.com/)
 [![GitHub](https://img.shields.io/badge/View_my_projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghimdohyun?tab=repositories)
