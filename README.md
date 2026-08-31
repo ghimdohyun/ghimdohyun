@@ -145,7 +145,7 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 
 **Listen** · **Clarify** · **Build** · **Measure** · **Improve**
 
-<sub>고객의 꿈을 듣고 → 실행 가능한 제품으로 만들고 → 반복 가능한 성장으로 연결합니다.</sub>
+<strong>고객의 꿈을 듣고 → 실행 가능한 제품으로 만들고 → 반복 가능한 성장으로 연결합니다.</strong>
 
 </div>
 
@@ -168,6 +168,6 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 [![GitHub](https://img.shields.io/badge/View_my_projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghimdohyun?tab=repositories)
 
 <br />
-<sub>Selected repositories remain private while documentation, secrets, and production data are reviewed before public release.</sub>
+<p><strong>Selected repositories remain private while documentation, secrets, and production data are reviewed before public release.</strong></p>
 
 </div>
