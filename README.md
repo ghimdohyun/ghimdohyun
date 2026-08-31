@@ -2,6 +2,7 @@
   <a href="https://dreamhelixion.com/"><img src="./assets/dreamhelper-banner.svg" alt="Dreamhelper — 김도현 AI Product Builder" width="100%" /></a>
 
   <p>
+    <a href="mailto:kip2301@naver.com?subject=Dreamhelper%20문의"><img src="https://img.shields.io/badge/Email-kip2301%40naver.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email kip2301@naver.com" /></a>
     <a href="https://dreamhelixion.com/"><img src="https://img.shields.io/badge/Dreamhelixion-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Dreamhelixion" /></a>
     <a href="https://github.com/ghimdohyun"><img src="https://img.shields.io/badge/GitHub-ghimdohyun-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://dreamhelixion.com/"><img src="https://img.shields.io/badge/AI_Product_Builder-7C3AED?style=for-the-badge&logo=sparkfun&logoColor=white" alt="AI Product Builder" /></a>
@@ -14,7 +15,7 @@
 
 ### AI로 사람과 사업의 다음 단계를 설계하고 만드는 Product Builder
 
-**Dream Helixion CEO · 경성대학교 재학 중**
+**Dream Helixion CEO · 경성대 재학 중**
 
 고객의 꿈을 듣고, 복잡한 문제를 실행 가능한 홈페이지·도구·제품으로 바꿉니다.
 현재는 홈페이지 제작으로 수익을 만들면서 취업과 창업을 함께 준비하고 있습니다.
@@ -162,9 +163,11 @@ AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을
 
 <div align="center">
 
-## 함께 만들고 싶다면
+## 함께 이야기하고 싶다면
 
-<h2><a href="https://github.com/ghimdohyun">김도현 GitHub 프로필 확인하기&nbsp;↗</a></h2>
+<h2><a href="mailto:kip2301@naver.com?subject=Dreamhelper%20문의">kip2301@naver.com&nbsp;↗</a></h2>
+
+홈페이지 제작, AI 제품, 협업 및 채용 관련 문의는 편하게 메일 주세요.
 
 [![Dreamhelixion](https://img.shields.io/badge/Explore_Dreamhelixion-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://dreamhelixion.com/)
 [![GitHub](https://img.shields.io/badge/View_my_projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghimdohyun?tab=repositories)
