@@ -57,26 +57,28 @@ flowchart LR
 ## Featured projects
 
 - [imweb AI Toolkit · Brand Studio · WebPilot AI](https://github.com/ghimdohyun/imweb-ai-toolkit) · [Live](https://dreamhelixion.com/) — AI agent toolkit과 AI 기반 견적·브랜드 진단·홈페이지 기획 도구를 하나의 저장소에서 운영합니다. Next.js frontend와 FastAPI backend를 함께 포함합니다.
-- [TaskView Platform](https://github.com/ghimdohyun/taskview-platform) · [Live](https://taskview-platform-web.vercel.app) — 목적과 승인 흐름을 데이터 뷰로 연결하는 프라이버시 중심 업무 플랫폼.
+- [TaskView Platform](https://github.com/ghimdohyun/taskview-platform) · [Live](https://taskview.dreamhelixion.com/) — 목적과 승인 흐름을 데이터 뷰로 연결하는 프라이버시 중심 업무 플랫폼.
 - [DreamHelixion Web Builder](https://github.com/ghimdohyun/dreamhelixion-web-builder) · [Live](https://builder.dreamhelixion.com/) — AI 홈페이지 빌더, 프로젝트 관리, 게시·도메인·결제 흐름을 포함한 SaaS.
 - [DreamHelixion Planner](https://github.com/ghimdohyun/dreamhelixion-planner) · [Live](https://planner.dreamhelixion.com/) — 대학 교육과정·졸업요건 분석과 맞춤형 학습계획 추천 서비스.
+- [FastAPI Lecture 06](https://github.com/ghimdohyun/fastapi-lecture-06) · [Live](https://ai.dreamhelixion.com/) — FastAPI와 Upstage AI를 연결한 해커톤 아이디어 저장·분석 서비스.
 - [Investment AI Assistant](https://github.com/ghimdohyun/investment-ai-assistant) — Claude AI 기반 데일리 투자 브리핑 및 Telegram 전달 자동화.
 - [Startup Alert](https://github.com/ghimdohyun/startup-alert) — 스타트업·투자 관련 정보를 수집하고 알림으로 전달하는 서비스.
-- [Fieldlink Facility SaaS](https://github.com/ghimdohyun/fieldlink-facility-saas) · [Live](https://outputs-lemon-nu.vercel.app/) — 시설 운영·현장 업무를 위한 SaaS MVP.
+- [Fieldlink Facility SaaS](https://github.com/ghimdohyun/fieldlink-facility-saas) · [Live](https://fieldlink.dreamhelixion.com/) — 시설 운영·현장 업무를 위한 SaaS MVP.
 - [Sunfull Program](https://github.com/ghimdohyun/sunfull-program) — Playwright 기반 Windows 데스크톱 자동화 프로그램.
 
 ## Other projects
 
 - [Auto-Doc Lab](https://github.com/ghimdohyun/auto-doc-lab) · [Live](https://biz.dreamhelixion.com/)
+- [Masil Moggongbang](https://github.com/ghimdohyun/masil-assembly-jig) · [Live](https://masilmoggongbang.vercel.app/)
 - [Smartstudy Landing](https://github.com/ghimdohyun/smartstudy-landing)
 - [Hand Gesture Interactive Brick Game](https://github.com/ghimdohyun/Hand-Gesture-Interactive-Brick-Game) · [Live](https://hand.dreamhelixion.com/)
-- [Honey Badger Challenge](https://github.com/ghimdohyun/honey-badger-challenge) · [Live](https://honey-badger-challenge-ghimdohyuns-projects.vercel.app/)
+- [Honey Badger Challenge](https://github.com/ghimdohyun/honey-badger-challenge) · [Live](https://challenge.dreamhelixion.com/)
 - [Unboxing Algorithm](https://github.com/ghimdohyun/Unboxing-Algorithm) · [Live](https://unbox.dreamhelixion.com/)
 - [Dream Accelerator](https://github.com/ghimdohyun/dream-accelerator) · [Live](https://accel.dreamhelixion.com/)
 - [Music Station](https://github.com/ghimdohyun/music-station) · [Live](https://music.dreamhelixion.com/)
 - [Cross Road Rush](https://github.com/ghimdohyun/cross-road-rush) · [Live](https://game.dreamhelixion.com/)
-- [KSU Likelihood Web](https://github.com/likelion-ksu-14th/ksu-likelion-web) · [Live](https://ksu-likelion-ghimdohyuns-projects.vercel.app/)
-- [TrialSpace](https://github.com/StoreTwin-AI/TrialSpace)
+- [KSU Likelihood Web](https://github.com/likelion-ksu-14th/ksu-likelion-web) · [Live](https://ksu.dreamhelixion.com/)
+- [TrialSpace](https://github.com/StoreTwin-AI/TrialSpace) · [Live](https://digitaltwin.dreamhelixion.com/)
 
 ## Tech focus
 
